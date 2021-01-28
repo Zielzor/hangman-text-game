@@ -1,2 +1,2 @@
 # hangman-text-game
-Simple game of hangman hacked together for fun.
+Simple game of Hangman hacked together for fun.
